@@ -1,2 +1,2 @@
 // Call the console.log function.
-console.log("Hello World ak!");
+console.log("Hello World ak2!");
